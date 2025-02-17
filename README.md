@@ -16,9 +16,6 @@ The goal is to extract album and artist data from Spotify, transform it into str
 * Automated Pipeline using AWS Lambda
 * Moves Processed Data to Archive Folder
 
-# Screenshots 
-
-
 # Future Improvements
 * Integrate with AWS Glue & Redshift for analytics
 * Automate scheduling with AWS Step Functions
